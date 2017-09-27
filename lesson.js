@@ -3,4 +3,6 @@ let sum = 0
 for (let index = 0; index <a; index++) {
     let element = a [index];
 
+    
+
 }
